@@ -1,0 +1,13 @@
+person_id,sample_id,gender,age,class,impostor_id,mask_id,glasses,wig,camera,light_condition,background
+1,1,Male,20,bona_fide,none,none,none,none,Iphone,natural,white_wall
+1,26,Male,20,bona_fide,none,none,rimless,none,Samsung,artificial,white_wall
+1,47,Male,20,bona_fide,none,none,none,short_blond,Samsung,artificial,office_bookshelves
+1,66,Male,20,attack,IMP_A,MASK_1_A,none,none,Samsung,artificial,white_wall
+1,88,Male,20,attack,IMP_A,MASK_1_A,rimless,none,Samsung,artificial,office_brick_wall
+1,112,Male,20,attack,IMP_A,MASK_1_A,none,short_blond,Iphone,natural_and_artificial,office_bookshelves
+2,1,Male,22,bona_fide,none,none,none,none,Iphone,natural,white_wall
+2,26,Male,22,bona_fide,none,none,rimless,none,Samsung,artificial,white_wall
+2,52,Male,22,bona_fide,none,none,none,short_dark,Iphone,natural_and_artificial,office_bookshelves
+2,76,Male,22,attack,IMP_B,MASK_2_B,none,none,Samsung,dim_light,white_wall
+2,96,Male,22,attack,IMP_B,MASK_2_B,rimless,none,Samsung,dim_light,white_wall
+2,115,Male,22,attack,IMP_B,MASK_2_B,none,short_dark,Iphone,natural_and_artificial,window
